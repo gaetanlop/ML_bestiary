@@ -1,6 +1,6 @@
 # ML_bestiary
 
-# Web scraping websites
+## Web scraping websites
 
 * Binding of Isaac: https://bindingofisaacrebirth.gamepedia.com/Bestiary (300 images)
 * Deadcells: https://deadcells.gamepedia.com/Enemies (75 images)
