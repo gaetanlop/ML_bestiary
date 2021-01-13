@@ -10,3 +10,7 @@
 * Pokemon: https://www.kaggle.com/kvpratama/pokemon-images-dataset  (800 images)
 
 ## Next step: Learn GAN architecture
+
+* Generator/ Discriminator Theory learnt
+* Made one example on Mnist
+
