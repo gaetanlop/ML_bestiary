@@ -11,7 +11,9 @@
 
 ## Next step: Learn GAN architecture
 
-* Generator/ Discriminator Theory learnt
-* Made one example on Mnist but not working
+* 11/01: Generator/ Discriminator Theory learnt
+* 12/01: Made one example on Mnist but not working
 * 14/01: DCGAN on mnist worked 50 epochs
+* 15/01: DCGAN on fashion worked for 50 epochs
+
 
