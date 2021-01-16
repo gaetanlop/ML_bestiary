@@ -16,6 +16,8 @@
 * 14/01: DCGAN on mnist worked 50 epochs
 * 15/01: DCGAN on fashion worked for 50 epochs
 * 16/01: Generation of monsters from Binding of Isaac. Not too bad but problem of overfitting
+* 17/01: dofus scraping done
+* TO DO : more scraping on TOP websites
 
 
 
