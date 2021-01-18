@@ -9,6 +9,9 @@
 * Nexomon: https://pqube.co.uk/nexomon-extinction/category/nexopedia/page/3/ (350 images)
 * Pokemon: https://www.kaggle.com/kvpratama/pokemon-images-dataset  (800 images)
 * Dofus: https://www.dofus.com/fr/mmorpg/encyclopedie/monstres (1400 images)
+* MapleStory: https://strategywiki.org/wiki/MapleStory/Bosses (1800 images)
+* Ragnarok: https://ratemyserver.net/index.php?page=mob_db (700 images)
+* Castaway: https://castaway.fandom.com/wiki/List_of_Monsters_(Castaway_1_%26_2)?fbclid=IwAR2616HP_h2Vu85SQ-lirU67M60rvd74kglM2WwDjiEVv6f5dGBT_hu1TpE (17 images)
 
 ## Next step: Learn GAN architecture
 
@@ -18,7 +21,8 @@
 * 15/01: DCGAN on fashion worked for 50 epochs
 * 16/01: Generation of monsters from Binding of Isaac. Not too bad but problem of overfitting
 * 17/01: dofus scraping done
-* TO DO : Ragnarok scraping
+* 17/01: Ragnarok scraping done
+* 18/01: MapleStory scraping done
 
 
 
