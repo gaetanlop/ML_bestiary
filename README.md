@@ -12,6 +12,7 @@
 * MapleStory: https://strategywiki.org/wiki/MapleStory/Bosses (1800 images)
 * Ragnarok: https://ratemyserver.net/index.php?page=mob_db (700 images)
 * Castaway: https://castaway.fandom.com/wiki/List_of_Monsters_(Castaway_1_%26_2)?fbclid=IwAR2616HP_h2Vu85SQ-lirU67M60rvd74kglM2WwDjiEVv6f5dGBT_hu1TpE (17 images)
+* Moonlighter: https://moonlighter.gamepedia.com/Enemies (60 images)
 
 ## Next step: Learn GAN architecture
 
@@ -23,6 +24,8 @@
 * 17/01: dofus scraping done
 * 17/01: Ragnarok scraping done
 * 18/01: MapleStory scraping done
+* 19/01: Moonlighter scraping
+
 
 
 
