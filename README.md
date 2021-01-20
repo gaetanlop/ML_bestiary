@@ -14,6 +14,9 @@
 * Castaway: https://castaway.fandom.com/wiki/List_of_Monsters_(Castaway_1_%26_2)?fbclid=IwAR2616HP_h2Vu85SQ-lirU67M60rvd74kglM2WwDjiEVv6f5dGBT_hu1TpE (17 images)
 * Moonlighter: https://moonlighter.gamepedia.com/Enemies (60 images)
 
+Total images scrapped: XXXX
+On : XXXX websites
+
 ## Next step: Learn GAN architecture
 
 * 11/01: Generator/ Discriminator Theory learnt
