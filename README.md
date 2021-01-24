@@ -30,7 +30,7 @@ Total images scrapped: 6800 images on 12 websites
 * 19/01: Moonlighter scraping done
 * 20/01: Dragon QUest scraping done
 
-4 websites left
+4 websites left + Drive
 
 
 
