@@ -14,8 +14,10 @@
 * Castaway: https://castaway.fandom.com/wiki/List_of_Monsters_(Castaway_1_%26_2)?fbclid=IwAR2616HP_h2Vu85SQ-lirU67M60rvd74kglM2WwDjiEVv6f5dGBT_hu1TpE (17 images)
 * Moonlighter: https://moonlighter.gamepedia.com/Enemies (60 images)
 * Dragon Quest: https://dragonquest.fandom.com/wiki/List_of_monsters_in_Dragon_Quest_XI_Bestiary (1200 images)
+* Graveyardkeeper: https://graveyardkeeper.gamepedia.com/Monsters (12 images)
+* Dontstarve: https://dontstarve.fandom.com/wiki/Monster (80 images
 
-Total images scrapped: 6800 images on 12 websites
+Total images scrapped: 6900 images on 14 websites
 
 ## Next step: Learn GAN architecture
 
@@ -29,6 +31,9 @@ Total images scrapped: 6800 images on 12 websites
 * 18/01: MapleStory scraping done
 * 19/01: Moonlighter scraping done
 * 20/01: Dragon QUest scraping done
+* 24/01: Graveyardkeep scraping done
+* 25/01: Dontstarve scraping Done
+* Failed to do exiled kingdom scraping multiple times
 
 4 websites left + Drive
 
