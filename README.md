@@ -15,9 +15,11 @@
 * Moonlighter: https://moonlighter.gamepedia.com/Enemies (60 images)
 * Dragon Quest: https://dragonquest.fandom.com/wiki/List_of_monsters_in_Dragon_Quest_XI_Bestiary (1200 images)
 * Graveyardkeeper: https://graveyardkeeper.gamepedia.com/Monsters (12 images)
-* Dontstarve: https://dontstarve.fandom.com/wiki/Monster (80 images
+* Dontstarve: https://dontstarve.fandom.com/wiki/Monster (80 images)
+* Dredmor: https://dungeonsofdredmor.fandom.com/wiki/Enemies (64 images)
+* Bit-heroes: https://bit-heroes-france.fandom.com/fr/wiki/Familiers (100 images)
 
-Total images scrapped: 6900 images on 14 websites
+Total images scrapped: 7000 images on 16 websites
 
 ## Next step: Learn GAN architecture
 
@@ -34,8 +36,9 @@ Total images scrapped: 6900 images on 14 websites
 * 24/01: Graveyardkeep scraping done
 * 25/01: Dontstarve scraping Done
 * Failed to do exiled kingdom scraping multiple times
+* 26/01 : Bit-heroes and dredmor scraping
 
-4 websites left + Drive
+
 
 
 
