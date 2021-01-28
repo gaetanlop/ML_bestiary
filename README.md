@@ -39,7 +39,7 @@ Total images scrapped: 7000 images on 16 websites
 * Failed to do exiled kingdom scraping multiple times
 * 26/01 : Bit-heroes and dredmor scraping
 * 27/01 : Chrono scraping
-* LETS START CLEANING THE DATABASE
+* 28/01 : CLEANING
 
 
 
