@@ -1,5 +1,7 @@
 # ML_bestiary
 
+* This repo contains all the datasets that we scrapped. It is use to create specific datasets. Do not remove anything from this repo.
+
 ## Web scraping websites
 
 * Binding of Isaac: https://bindingofisaacrebirth.gamepedia.com/Bestiary (300 images)
