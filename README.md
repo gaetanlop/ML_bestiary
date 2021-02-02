@@ -45,6 +45,11 @@ Total images scrapped: 7000 images on 16 websites
 
 
 
+* 29/01 : Faire rosprites
+* 01/02 : Reunion pour le Data Cleaning, on clean sommairement d'ici le 6 puis commencement du GAN.
+* Ajouter tous les sites scrappés à la liste
+
+
 
 
 
