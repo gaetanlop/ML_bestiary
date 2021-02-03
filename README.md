@@ -49,6 +49,8 @@ Total images scrapped: 7000 images on 16 websites
 * 01/02 : Reunion pour le Data Cleaning, on clean sommairement d'ici le 6 puis commencement du GAN.
 * Ajouter tous les sites scrappés à la liste
 
+* Semaine du 02/02: Sprint pour le cleaning de la bdd. Cleaning sommaire. Stratégie: tester avec le plus d'images possibles.
+
 
 
 
