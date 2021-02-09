@@ -50,6 +50,11 @@ Total images scrapped: 7000 images on 16 websites
 * Ajouter tous les sites scrappés à la liste
 
 * Semaine du 02/02: Sprint pour le cleaning de la bdd. Cleaning sommaire. Stratégie: tester avec le plus d'images possibles.
+* First cleaning: only images that do not look like monsters
+* Second cleaning: after the first gan model. Delete datasets wrong style images.
+* Third cleaning: after the second gan model: CDCGAN. create repositories with images of same type. Labels.
+
+* I need to put all the databases on this github repo and update the number of images and websites scrapped.
 
 
 
