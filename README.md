@@ -22,7 +22,7 @@
 * Bit-heroes: https://bit-heroes-france.fandom.com/fr/wiki/Familiers (100 images)
 * Chrono: https://chrono.fandom.com/wiki/List_of_Chrono_Trigger_enemies?fbclid=IwAR2twdwGb4JQ3ZTk58Yjkj22H6rA5sbMs-En76o3rcdAZT0frN4Wt5-1cTw (130 images)
 
-Total images scrapped: 7000 images on 16 websites
+Total images scrapped: 12000 images on 16 websites
 
 ## Next step: Learn GAN architecture
 
