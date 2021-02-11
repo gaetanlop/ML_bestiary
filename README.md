@@ -54,7 +54,7 @@ Total images scrapped: 12000 images on 16 websites
 * Second cleaning: after the first gan model. Delete datasets wrong style images.
 * Third cleaning: after the second gan model: CDCGAN. create repositories with images of same type. Labels.
 
-* I need to put all the databases on this github repo and update the number of images and websites scrapped.
+* I need to put all the databases on this github repo and update the number of images and websites scrapped!
 
 
 
