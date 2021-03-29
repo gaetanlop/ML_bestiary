@@ -56,7 +56,7 @@ Total images scrapped: 12000 images on 16 websites
 
 * I need to put all the databases on this github repo and update the number of images and websites scrapped!
 
-
+* FOCUS ON CREATING GOOD GANS
 
 
 
