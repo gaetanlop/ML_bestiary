@@ -24,7 +24,7 @@
 
 Total images scrapped: 12000 images on 16 websites
 
-## Next step: Learn GAN architecture
+## Roadmap
 
 * 11/01: Generator/ Discriminator Theory learnt
 * 12/01: Made one example on Mnist but not working
@@ -56,7 +56,11 @@ Total images scrapped: 12000 images on 16 websites
 
 * I need to put all the databases on this github repo and update the number of images and websites scrapped!
 
-* FOCUS ON CREATING GOOD GANS
+## Next step: Learn GAN architecture (best articles about gans)
+
+
+
+
 
 
 
