@@ -58,9 +58,9 @@ Total images scrapped: 12000 images on 16 websites
 
 ## Next step: Learn GAN architecture (best articles about gans)
 
+Best articles for the moment: 
+https://bmachin.medium.com/training-a-heavy-metal-artwork-generator-using-stylegan2-ada-1c1e30bc1e9b
 
-
-
-
+https://medium.com/swlh/training-gans-with-limited-data-22a7c8ffce78
 
 
