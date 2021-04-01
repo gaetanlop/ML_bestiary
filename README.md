@@ -63,4 +63,5 @@ https://bmachin.medium.com/training-a-heavy-metal-artwork-generator-using-styleg
 
 https://medium.com/swlh/training-gans-with-limited-data-22a7c8ffce78
 
-
+* 01/04/2021: watched https://www.youtube.com/watch?v=DVXX0tmVyco&fbclid=IwAR2BuSJHF23X2cKcCVgvaizbVGiA6kkvTM4v1Vw9TWfaTnTepGv8wkOgIAU
+* 
