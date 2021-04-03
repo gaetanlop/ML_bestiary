@@ -64,4 +64,10 @@ https://bmachin.medium.com/training-a-heavy-metal-artwork-generator-using-styleg
 https://medium.com/swlh/training-gans-with-limited-data-22a7c8ffce78
 
 * 01/04/2021: watched https://www.youtube.com/watch?v=DVXX0tmVyco&fbclid=IwAR2BuSJHF23X2cKcCVgvaizbVGiA6kkvTM4v1Vw9TWfaTnTepGv8wkOgIAU
-* 
+* 03/04/2021: Traitement des monstres etc, avoir un avis sur le legal. 
+Inspirer des dessinateurs de monstres avec des monstres qui existent déjà. Comment on se positionne la dessus. Sens niveau droit d’auteur. 
+La création humaine a produit trop peu de variétés. Effort incrémentale entre l’existant et ce qu’il faut pour faire tourner un gan.
+CCL du projet : Objectif quel chance on a de combler le gap. Si marche pas, on n’est pas dans les bonnes conditions etc …
+Question : pk investir ? pk forcer cette démarche là ? Créer un  nouveau marché : on desintermédie qqn ?
+Se demander ce que ça me dit sur la réalité. Dans quel monde ideal pour que ça arrive et pk j’ai envie de me projeter dans ce monde idéal. 
+
