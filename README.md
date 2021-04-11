@@ -69,5 +69,15 @@ Inspirer des dessinateurs de monstres avec des monstres qui existent déjà. Com
 La création humaine a produit trop peu de variétés. Effort incrémentale entre l’existant et ce qu’il faut pour faire tourner un gan.
 CCL du projet : Objectif quel chance on a de combler le gap. Si marche pas, on n’est pas dans les bonnes conditions etc …
 Question : pk investir ? pk forcer cette démarche là ? Créer un  nouveau marché : on desintermédie qqn ?
-Se demander ce que ça me dit sur la réalité. Dans quel monde ideal pour que ça arrive et pk j’ai envie de me projeter dans ce monde idéal. 
+Se demander ce que ça me dit sur la réalité. Dans quel monde ideal pour que ça arrive et pk j’ai envie de me projeter dans ce monde idéal.
+
+
+## Training resultsd after 2 days using style gan 2 ada
+
+* A lot of overfitted images. Really looks like thze training set. Should try interpolation to see if it understood data distribution of our monsters.
+* Should also do another cleaning to remove duplicated images.
+* Another idea is to use this 2 day model as a pretrained model for our others gans (will savr time)
+* Try to implement a gan on all the monsters.
+
+
 
