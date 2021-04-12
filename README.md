@@ -82,6 +82,5 @@ Se demander ce que ça me dit sur la réalité. Dans quel monde ideal pour que �
 ## Second training
 
 * To counter overfitted images, removed duplicates and cleaned images of monsters that does not look like monsters.
-
-
+* it seems that if we train the model too much some leakage since the proba increases.
 
