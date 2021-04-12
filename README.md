@@ -79,5 +79,9 @@ Se demander ce que ça me dit sur la réalité. Dans quel monde ideal pour que �
 * Another idea is to use this 2 day model as a pretrained model for our others gans (will savr time)
 * Try to implement a gan on all the monsters.
 
+## Second training
+
+* To counter overfitted images, removed duplicates and cleaned images of monsters that does not look like monsters.
+
 
 
