@@ -84,3 +84,8 @@ Se demander ce que ça me dit sur la réalité. Dans quel monde ideal pour que �
 * To counter overfitted images, removed duplicates and cleaned images of monsters that does not look like monsters.
 * it seems that if we train the model too much some leakage since the proba increases.
 
+## Third Training
+
+Using clean images trained on 128 by 128 pixels. Used the complex architecture with a gamma of 30. Also I created the neural net without transfer learning. Results seems promising because way elss overfitting than before.
+
+
