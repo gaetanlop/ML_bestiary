@@ -88,4 +88,8 @@ Se demander ce que ça me dit sur la réalité. Dans quel monde ideal pour que �
 
 Using clean images trained on 128 by 128 pixels. Used the complex architecture with a gamma of 30. Also I created the neural net without transfer learning. Results seems promising because way elss overfitting than before.
 
+## Fourth training
 
+Pokemon + new pokemon + nexomon + dofus pets
+
+https://github.com/PokeAPI/sprites
