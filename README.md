@@ -21,6 +21,7 @@
 * Dredmor: https://dungeonsofdredmor.fandom.com/wiki/Enemies (64 images)
 * Bit-heroes: https://bit-heroes-france.fandom.com/fr/wiki/Familiers (100 images)
 * Chrono: https://chrono.fandom.com/wiki/List_of_Chrono_Trigger_enemies?fbclid=IwAR2twdwGb4JQ3ZTk58Yjkj22H6rA5sbMs-En76o3rcdAZT0frN4Wt5-1cTw (130 images)
+* To scrape: http://blackjackrants.blogspot.com/2020/12/reviewing-monsters-temtem-part-2.html
 
 Total images scrapped: 12000 images on 16 websites
 
