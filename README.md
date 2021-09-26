@@ -1,5 +1,7 @@
 # ML_bestiary
 
+[Link teaser](https://youtu.be/2b8fL_hNo0g)
+
 ## Project Overview
 
 One of the major problems faced by independent video game developers is the difficulty of recruiting designers. Indeed, some do not have the funds to hire a full-time designer.
