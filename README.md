@@ -10,7 +10,7 @@ Please find below a little teaser of the project:
 
 <a href="https://youtu.be/2b8fL_hNo0g
 " target="_blank"><img src="https://github.com/gaetanlop/ML_bestiary_all/blob/main/Images/Image_for_screen.PNG" 
-alt="ML_bestiary_YT" width="180" height="140" border="10" /></a>
+alt="ML_bestiary_YT" width="240" height="180" border="10" /></a>
 
 [![Image for the youtube video](https://github.com/gaetanlop/ML_bestiary_all/blob/main/Images/Image_for_screen.PNG)](https://youtu.be/2b8fL_hNo0g)
 
