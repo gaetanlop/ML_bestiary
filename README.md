@@ -17,15 +17,15 @@ After showing this teaser with different independent video game developers, we f
 
 Step | Beginning | Number of days 
 --- | --- | ---
-*Validate the interest of our POC with developers* | 12/04/2020 | 7 
-*How to get the data* | 12/04/2020 | 20
-*Scrap the different monsters* |12/04/2020 | 30
-*Database cleaning* | 12/04/2020 | 20
-*Looking for the most suitable gan model* | 12/04/2020 | 30
-*Cloud environment management* | 12/04/2020 | 5
-*Model training* | 12/04/2020 | 30
-*Results analysis* | 12/04/2020 | 10
-*Creation of a teaser* | 12/04/2020` | 7
+Validate the interest of our POC with developers | 12/04/2020 | 7 
+How to get the data | 12/15/2020 | 20
+Scrap the different monsters |12/26/2021 | 30
+Database cleaning | 01/10/2021 | 20
+Looking for the most suitable gan model | 02/04/2021 | 30
+Cloud environment management | 03/11/2021 | 5
+Model training | 03/21/2021 | 30
+Results analysis | 04/20/2021 | 10
+Creation of a teaser | 05/04/2021` | 7
 
 ## Web scraping websites
 
