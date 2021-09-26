@@ -8,7 +8,7 @@ we decided to work on this project. Our goal is to create an artificial intellig
 
 Please find below a little teaser of the project:
 
-[![Image for the youtube video](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/2b8fL_hNo0g)
+[![Image for the youtube video](https://github.com/gaetanlop/ML_bestiary_all/blob/main/Images/Image_for_screen.PNG)](https://youtu.be/2b8fL_hNo0g)
 
 
 
