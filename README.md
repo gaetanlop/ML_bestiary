@@ -27,15 +27,11 @@ Model training | 03/21/2021 | 30
 Results analysis | 04/20/2021 | 10
 Creation of a teaser | 05/04/2021` | 7
 
-*Validate the interest of our POC with developers*: 
+**Scraping:** In total we scrapped over 12000 monsters on 30 different websites.
 
-**Scraping:**
+**Trying different architectures of Generative adversarial networks models:** The final architecture that we re using is the StyleGAN 2 ADA developed by NVidia researchers in october 2020 ([github](https://github.com/NVlabs/stylegan2-ada) | [paper](https://arxiv.org/pdf/2006.06676.pdf))
 
-Trying different architectures of Gan models:
-
-Model Training:
-
-
+**Model Training:** Our best model was trained during three days using Google Colab Pro.
 
 ## Success of the project
 
