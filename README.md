@@ -8,7 +8,8 @@ we decided to work on this project. Our goal is to create an artificial intellig
 
 Please find below a little teaser of the project:
 
-PUT THE VIDEO HERE
+[![Image for the youtube video](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/2b8fL_hNo0g)
+
 
 
 After showing this teaser to different independent video game developers, we found out that many where interested in the technology. We plan to work on it more in order to improve it (see the parts on improveemnts). That's why we still did not release all the codes. 
