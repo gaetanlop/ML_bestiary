@@ -60,7 +60,20 @@ collapse mode)
 
 ## Room for improvements
 
+After several months of work on this project, we believe that there are still many ways to improve our models. In this section, I will outline the four most important areas for improvement.
 
+* Increase the number of monsters that we have collected to create our Generative Adversarial Networks. Indeed, the number of monsters in our database is strongly correlated to the performance of the project. We noticed that one of the main difficulties in training a Generative Adversarial Network (GAN) is the access to the data. In our
+case, we had to retrieve a large number of monsters to train our AI. This task is crucial since it is from these monsters that our model will create new ones. At
+12000 different monsters from more than 30 different websites (from 30 different video games). In our opinion, we should go back to the scraping stage (one of the first steps in our road map) and continue to collect new monsters. This task is difficult since there is a finite number of images of video game monsters freely available on the Internet.
+Thus, productivity decreases as we collect monsters: the more monsters we scrape, the less we have left on the Internet and therefore the harder it is to find them.
+
+* Create databases that share a similar design style: This is the most difficult area of improvement. Indeed, collecting images of monsters is a good thing but it is still necessary that the drawing style of the artist is the same as the monsters we have already collected. To deal with this, we could for example hire a designer to create monsters of the same style.
+
+* Our AI is not yet directly usable on the Internet by anyone. Our files are on our computers and unusable by someone who does not know how to do Data Science. One of the
+improvement would be to deploy the project on the cloud, and make it possible for video game creators to use it as they wish. This is not a difficult task. But we haven't done it since we want to make a finished product available, not deploy a relatively bad product. We want to continue to collect new images and maybe succeed in animating
+our monsters (this is the subject of the last point) before making our model available.
+
+* The last area of improvement is the one that would bring the most value to our project. Several developers have expressed a strong interest in our project, but each time the same question they asked the same question: "is it possible for this artificial intelligence to animate the monsters it has created?". For example, is it possible for it to make dragons fly or humanoids walk? It is on this question that we would need to address after increasing the size of our database. The task is difficult but not impossible. Today, we are convinced that such an improvement on our project would drastically increase its value in the world of video games.
 
 
 ## Web scraping websites
