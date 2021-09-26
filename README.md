@@ -87,3 +87,11 @@ our monsters (this is the subject of the last point) before making our model ava
 * First cleaning: only images that do not look like monsters
 * Second cleaning: after the first gan model. Delete datasets wrong style images.
 * Third cleaning: after the second gan model: CDCGAN. create repositories with images of same type. Labels.
+
+## Code and Resources Used
+
+**Style GAN 2 ADA github repo:** https://github.com/NVlabs/stylegan2-ada
+
+**Style GAN 2 ADA paper:** https://arxiv.org/abs/2006.06676
+
+**Style GAN 2 ADA training lessons:** https://www.youtube.com/watch?v=DVXX0tmVyco
