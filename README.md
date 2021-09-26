@@ -27,6 +27,25 @@ Model training | 03/21/2021 | 30
 Results analysis | 04/20/2021 | 10
 Creation of a teaser | 05/04/2021` | 7
 
+## Success of the project
+
+One of the great successes of the project is to have obtained a neural network producing images of Pokémon of much better quality than what was previously done in towards data science in 2020 ([example of one article](https://towardsdatascience.com/how-to-create-unique-pok%C3%A9mon-using-gans-ea1cb6b6a5c2)).
+
+In comparison, here is a selection of images obtained by our neural network:
+
+PUT THE IMAGES
+
+One of the achievements that we are also particularly proud of is that our image generator allows to generate new ideas of innovative Pokémons, it does not replace the artist but assists him in his creative process by proposing innovative forms to his imagination. Please find below an example of innovation of our image generator that can help the artist to innovate. The eyes of all the Pokemon existing today are placed on a smooth and more or less spherical surface of a head. On this picture we have a first eye on a smooth and more or less spherical surface but the second eye is placed on a hollow protuberance from which a limb comes out. Its shape and its location in relation to the first eye and the mouth allow us to accept this second eye while widening our vision of the properties of an eye and thus our artistic vision. Our GAN thus helps to stimulate artistic creativity.
+
+PUT THE IMAGE
+
+Apart from the concrete results that we were able to achieve, it is above all, the experience that we have gained during the realization of this project that makes it a real success. We now have a better understanding of the strengths and limitations of the GAN architecture and we are now better able to define the training data needed for a successful Image generation project. The main idea that we have incorporated throughout the project is the importance of the distribution of the GAN training data. A GAN allows to reproduce an image distribution of a certain population. If the sample used for training is not representative of the population, the GAN will not be able to reproduce it. For example, we found that if the images provided to GAN for its training could be separated into several groups, then during its training
+the GAN will produce images that can also be increasingly separated into distinct groups.
+
+## Errors of the project
+
+
+
 ## Web scraping websites
 
 * Binding of Isaac: https://bindingofisaacrebirth.gamepedia.com/Bestiary (300 images)
