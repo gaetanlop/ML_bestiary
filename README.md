@@ -1,6 +1,19 @@
 # ML_bestiary
 
-* This repo contains all the datasets that we scrapped. It is use to create specific datasets. Do not remove anything from this repo.
+## Project Overview
+
+One of the major problems faced by independent video game developers is the difficulty of recruiting designers. Indeed, some do not have the funds to hire a full-time designer.
+However, they have a crucial role in the success of a video game since for gamers, the bestiary is part of the quality guarantee of a good video game. It is in this context that
+we decided to work on this project. Our goal is to create an artificial intelligence capable of generating new unseen monsters. This project can allow the creators of independent video games who do not have the budget to hire designers to have monsters directly generated from an AI (or at least a designer could use these images to make different monsters).
+
+Please find below a little teaser of the project:
+
+PUT THE VIDEO HERE
+
+
+After showing this teaser with different independent video game developers, we found out that many where interested in the technology. We plan to work on it more in order to improve it (see the parts on improveemnts). That's why we still did not release all the codes.
+
+
 
 ## Web scraping websites
 
