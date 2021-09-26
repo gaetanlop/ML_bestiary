@@ -13,6 +13,9 @@ PUT THE VIDEO HERE
 
 After showing this teaser with different independent video game developers, we found out that many where interested in the technology. We plan to work on it more in order to improve it (see the parts on improveemnts). That's why we still did not release all the codes.
 
+I also need to SAY EVERYTHING WE HAVE DONE !
++ Style Gan 2 ada overview.
+
 ## Roadmap
 
 Step | Beginning | Number of days 
@@ -43,6 +46,20 @@ Apart from the concrete results that we were able to achieve, it is above all, t
 the GAN will produce images that can also be increasingly separated into distinct groups.
 
 ## Errors of the project
+
+Our goal of generating monsters for independent game developers is not yet reached. Indeed, the quality of humanoid and dragon monsters is still too low and the diversity of images is still too low for our model to be used as is by developers. The lack of homogeneity of the generated images of dragons and humanoids generated makes the original images too visible for a commercial exploitation. It is easy to distinguish the style of some games in the generated images. Below, a comparison between a generated image (left) and an image from the training dataset (right). The generated image, through its proportions, orientation and textures is too easily identifiable as being inspired by the Dofus style from which the second image comes.
+
+PUT THE IMAGE WITH TWO DRAGONS
+
+#### Some errors that we made:
+
+* Leave duplicates or near duplicates in the training dataset. This makes it the appearance of duplicate training images in the generator more likely (called
+collapse mode)
+* Continue a training run for too long when the model has started to enter the collapse mode because it will not be able tocollapse mode because it will not be able to get out of it and will instead sink into this error as the training.
+* Save the neural model too regularly. This slows down the training and overloads the storage space.
+
+## Room for improvements
+
 
 
 
