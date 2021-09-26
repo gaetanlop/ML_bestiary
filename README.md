@@ -11,12 +11,9 @@ Please find below a little teaser of the project:
 PUT THE VIDEO HERE
 
 
-After showing this teaser with different independent video game developers, we found out that many where interested in the technology. We plan to work on it more in order to improve it (see the parts on improveemnts). That's why we still did not release all the codes.
+After showing this teaser to different independent video game developers, we found out that many where interested in the technology. We plan to work on it more in order to improve it (see the parts on improveemnts). That's why we still did not release all the codes. 
 
-I also need to SAY EVERYTHING WE HAVE DONE !
-+ Style Gan 2 ada overview.
-
-## Roadmap
+#### Roadmap
 
 Step | Beginning | Number of days 
 --- | --- | ---
@@ -29,6 +26,16 @@ Cloud environment management | 03/11/2021 | 5
 Model training | 03/21/2021 | 30
 Results analysis | 04/20/2021 | 10
 Creation of a teaser | 05/04/2021` | 7
+
+*Validate the interest of our POC with developers*: 
+
+**Scraping:**
+
+Trying different architectures of Gan models:
+
+Model Training:
+
+
 
 ## Success of the project
 
