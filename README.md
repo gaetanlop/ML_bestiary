@@ -6,15 +6,11 @@ One of the major problems faced by independent video game developers is the diff
 However, they have a crucial role in the success of a video game since for gamers, the bestiary is part of the quality guarantee of a good video game. It is in this context that
 we decided to work on this project. Our goal is to create an artificial intelligence capable of generating new unseen monsters. This project can allow the creators of independent video games who do not have the budget to hire designers to have monsters directly generated from an AI (or at least a designer could use these images to make different monsters).
 
-Please find below a little teaser of the project:
+Please click on the image below to see the teaser of the project:
 
 <a href="https://youtu.be/2b8fL_hNo0g
 " target="_blank"><img src="https://github.com/gaetanlop/ML_bestiary_all/blob/main/Images/Image_for_screen.PNG" 
 alt="ML_bestiary_YT" width="480" height="400" border="10" /></a>
-
-[![Image for the youtube video](https://github.com/gaetanlop/ML_bestiary_all/blob/main/Images/Image_for_screen.PNG)](https://youtu.be/2b8fL_hNo0g)
-
-
 
 After showing this teaser to different independent video game developers, we found out that many where interested in the technology. We plan to work on it more in order to improve it (see the parts on improveemnts). That's why we still did not release all the codes. 
 
@@ -46,11 +42,11 @@ One of the great successes of the project is to have obtained a neural network p
 
 In comparison, here is a selection of images obtained by our neural network:
 
-PUT THE IMAGES
+![alt text](https://github.com/gaetanlop/ML_bestiary_all/blob/main/Images/Image_1_github.PNG "IMG1")
 
 One of the achievements that we are also particularly proud of is that our image generator allows to generate new ideas of innovative Pokémons, it does not replace the artist but assists him in his creative process by proposing innovative forms to his imagination. Please find below an example of innovation of our image generator that can help the artist to innovate. The eyes of all the Pokemon existing today are placed on a smooth and more or less spherical surface of a head. On this picture we have a first eye on a smooth and more or less spherical surface but the second eye is placed on a hollow protuberance from which a limb comes out. Its shape and its location in relation to the first eye and the mouth allow us to accept this second eye while widening our vision of the properties of an eye and thus our artistic vision. Our GAN thus helps to stimulate artistic creativity.
 
-PUT THE IMAGE
+![alt text](https://github.com/gaetanlop/ML_bestiary_all/blob/main/Images/Image_2_github.PNG "IMG2")
 
 Apart from the concrete results that we were able to achieve, it is above all, the experience that we have gained during the realization of this project that makes it a real success. We now have a better understanding of the strengths and limitations of the GAN architecture and we are now better able to define the training data needed for a successful Image generation project. The main idea that we have incorporated throughout the project is the importance of the distribution of the GAN training data. A GAN allows to reproduce an image distribution of a certain population. If the sample used for training is not representative of the population, the GAN will not be able to reproduce it. For example, we found that if the images provided to GAN for its training could be separated into several groups, then during its training
 the GAN will produce images that can also be increasingly separated into distinct groups.
@@ -59,7 +55,7 @@ the GAN will produce images that can also be increasingly separated into distinc
 
 Our goal of generating monsters for independent game developers is not yet reached. Indeed, the quality of humanoid and dragon monsters is still too low and the diversity of images is still too low for our model to be used as is by developers. The lack of homogeneity of the generated images of dragons and humanoids generated makes the original images too visible for a commercial exploitation. It is easy to distinguish the style of some games in the generated images. Below, a comparison between a generated image (left) and an image from the training dataset (right). The generated image, through its proportions, orientation and textures is too easily identifiable as being inspired by the Dofus style from which the second image comes.
 
-PUT THE IMAGE WITH TWO DRAGONS
+![alt text](https://github.com/gaetanlop/ML_bestiary_all/blob/main/Images/Image_3_github.PNG "IMG3")
 
 #### Some errors that we made:
 
