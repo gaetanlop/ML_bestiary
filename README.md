@@ -36,7 +36,7 @@ Creation of a teaser | 05/04/2021` | 7
 * Second cleaning: after the first GAN model. Delete datasets wrong style images.
 * Third cleaning: after the second GAN model: CDCGAN. create repositories with images of same type (Labeling).
 
-**Trying different architectures of Generative adversarial networks models:** The final architecture that we re using is the StyleGAN 2 ADA developed by NVidia researchers in october 2020 ([github](https://github.com/NVlabs/stylegan2-ada) | [paper](https://arxiv.org/pdf/2006.06676.pdf))
+**Trying different architectures of Generative adversarial networks models:** The final architecture that we used is the StyleGAN 2 ADA developed by NVidia researchers in october 2020 ([github](https://github.com/NVlabs/stylegan2-ada) | [paper](https://arxiv.org/pdf/2006.06676.pdf))
 
 **Model Training:** Our best model was trained during three days using Google Colab Pro.
 
