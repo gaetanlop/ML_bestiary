@@ -40,7 +40,7 @@ Creation of a teaser | 05/04/2021` | 7
 
 **Model Training:** Our best model was trained during three days using Google Colab Pro.
 
-## Success of the project
+## Successes of the project
 
 One of the great successes of the project is to have obtained a neural network producing images of Pokemon of much better quality than what was previously done in towards data science articles in 2020 ([example of one article](https://towardsdatascience.com/how-to-create-unique-pok%C3%A9mon-using-gans-ea1cb6b6a5c2)).
 
@@ -56,20 +56,19 @@ Apart from the concrete results that we were able to achieve, it is above all, t
 
 ## Errors of the project
 
-Our goal of generating monsters for independent game developers is not yet reached. Indeed, the quality of humanoid and dragon monsters is still too low and the diversity of images is still too low for our model to be used as it is by developers. The lack of homogeneity of the generated images of dragons and humanoids makes the original images too visible for a commercial exploitation. It is easy to distinguish the style of some video games in the generated images. Below, a comparison between a generated image (left) and an image from the training dataset (right). The generated image, through its proportions, orientation and textures is too easily identifiable as being inspired by the Dofus style from which the second image comes.
+Our goal of generating monsters for independent game developers is not yet reached. Indeed, the quality of humanoids and dragons monsters is still too low and the diversity of images is still too low for our model to be used as it is by developers. The lack of homogeneity of the generated images of dragons and humanoids makes the original images too recognizable for a commercial exploitation. It is easy to distinguish the style of some video games in the generated images. Below, a comparison between a generated image (left) and an image from the training dataset (right). The generated image, through its proportions, orientation and textures is too easily identifiable as being inspired by the Dofus style from which the second image comes.
 
 ![alt text](https://github.com/gaetanlop/ML_bestiary_all/blob/main/Images/Image_3_github.PNG "IMG3")
 
 #### Some errors that we made:
 
-* Leave duplicates or near duplicates in the training dataset. This makes it the appearance of duplicate training images in the generator more likely (called
-collapse mode)
-* Continue a training run for too long when the model has started to enter the `mode collapse` because it will not be able to get out of it and will instead sink into this error as the training.
+* Leave duplicates or near duplicates in the training dataset. This makes it the appearance of duplicate training images in the generator more likely (called mode collapse).
+* Continue a training run for too long when the model has started to enter the `mode collapse` because it will not be able to get out of it and will instead sink into this error as the training continues.
 * Save the neural model too regularly. This slows down the training and overloads the storage space.
 
 ## Room for improvement
 
-After several months of work on this project, we believe that there are still many ways to improve our models. In this section, I will outline the four most important areas for improvements.
+After several months of work on this project, we believe that there are still many ways to improve our models. In this section, I will outline the four most important areas of improvements.
 
 * Increase the number of monsters that we have collected to create our Generative Adversarial Networks. Indeed, the number of monsters in our database is strongly correlated to the performance of the project. We noticed that one of the main difficulties in training a Generative Adversarial Network (GAN) is the access to the data. In our
 case, we had to retrieve a large number of monsters to train our AI. This task is crucial since it is from these monsters that our model will create new ones. Based on the results, it seems that we should go back to the scraping stage (one of the first steps in our road map) and continue to collect new monsters. This task is difficult since there is a finite number of images of video game monsters freely available on the Internet. Thus, productivity decreases as we collect monsters: the more monsters we scrape, the less we have left on the Internet and therefore the harder it is to find them.
