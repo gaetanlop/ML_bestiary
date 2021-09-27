@@ -32,9 +32,9 @@ Creation of a teaser | 05/04/2021` | 7
 **Scraping:** In total we scrapped over 12000 monsters on 30 different websites among which famous video games like MapleStory, DeadCells, Binding Of Isaac, Dofus, Chrono and more.
 
 **Data Cleaning:** In total we did three rounds of training. During the first one, we only removed images that do not look like monsters (errors from the scraping). During the second one, we removed the datasets with a totally different style of images. For the last one, we created repositories with images of the same type (ie labeling of the images into classes: humans, drakes ...).
-* First cleaning: only images that do not look like monsters
-* Second cleaning: after the first gan model. Delete datasets wrong style images.
-* Third cleaning: after the second gan model: CDCGAN. create repositories with images of same type. Labels.
+* First cleaning: only images that do not look like monsters.
+* Second cleaning: after the first GAN model. Delete datasets wrong style images.
+* Third cleaning: after the second GAN model: CDCGAN. create repositories with images of same type (Labeling).
 
 **Trying different architectures of Generative adversarial networks models:** The final architecture that we re using is the StyleGAN 2 ADA developed by NVidia researchers in october 2020 ([github](https://github.com/NVlabs/stylegan2-ada) | [paper](https://arxiv.org/pdf/2006.06676.pdf))
 
