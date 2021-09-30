@@ -83,7 +83,7 @@ our monsters (this is the subject of the last point) before making our model ava
 
 > Is it possible for this artificial intelligence to animate the monsters it has created?. For example, is it possible for it to make dragons fly or humanoids walk? 
 
-It is on this question that we would need to address after increasing the size of our database. The task is difficult but not impossible. Today, we are convinced that such an improvement on our project would drastically increase its value in the world of video games.
+This is the question that we would need to address after increasing the size of our database. The task is difficult but not impossible. Today, we are convinced that such an improvement on our project would drastically increase its value in the world of video games.
 
 ## Code and Resources Used
 
